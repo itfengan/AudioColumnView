@@ -8,9 +8,8 @@ An audio beat view
 ![音频跳动view](http://img.blog.csdn.net/20171025154215079?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZmVuZ2FuaXQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ###  github地址 ###
-[github:https://github.com/itfengan/AudioColumnView](https://github.com/itfengan/AudioColumnView)
-###使用很简单###
-
+[https://github.com/itfengan/AudioColumnView](https://github.com/itfengan/AudioColumnView "效果图")
+### 使用很简单 ###
  - xml
 
 
