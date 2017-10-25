@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if (!audioColumnView.isStart()) {
+                    //开始跳动
                     audioColumnView.start();
                 }
             }
@@ -23,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if (audioColumnView.isStart()) {
+                    //结束跳动
                     audioColumnView.stop();
                 }
             }
