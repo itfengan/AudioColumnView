@@ -5,7 +5,7 @@ An audio beat view
 闲来无事,看到网易云音乐还有很多播放软件播放音乐有个随音乐跳动的柱状view,就简单撸了下
 
 ### 效果图如下:###
-<img src="http://img.blog.csdn.net/20171025154215079?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZmVuZ2FuaXQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast"/>
+<img src="https://github.com/itfengan/AudioColumnView/blob/master/screenshot/20171025154215079.gif"/>
 
 ###  github地址 ###
 [https://github.com/itfengan/AudioColumnView](https://github.com/itfengan/AudioColumnView "效果图")
