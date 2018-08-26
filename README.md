@@ -3,9 +3,10 @@ An audio beat view
 闲来无事,看到网易云音乐还有很多播放软件播放音乐有个随音乐跳动的柱状view,就简单撸了下
 
 # 效果图如下
-<img src="https://github.com/itfengan/AudioColumnView/blob/master/screenshot/20171025154215079.gif" width = "400"/>
+<img src="https://github.com/itfengan/AudioColumnView/blob/master/screenshot/20171025154215079.gif" width = "350"/>
 # usage
-```
+
+    ```
 
     <?xml version="1.0" encoding="utf-8"?>
 	<LinearLayout
@@ -36,10 +37,9 @@ An audio beat view
 
     ```
     
-```
+    ```
 
-
-	public class MainActivity extends AppCompatActivity {
+    public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -67,5 +67,5 @@ An audio beat view
     }
 	}
 
-```
-over 嘻嘻
+    ```
+# over 嘻嘻
