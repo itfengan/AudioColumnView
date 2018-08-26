@@ -1,14 +1,10 @@
 # AudioColumnView
 An audio beat view
 闲来无事,看到网易云音乐还有很多播放软件播放音乐有个随音乐跳动的柱状view,就简单撸了下
-### 效果图如下:###
+
+# 效果图如下
 <img src="https://github.com/itfengan/AudioColumnView/blob/master/screenshot/20171025154215079.gif" width = "400"/>
-###  github地址 ###
-[https://github.com/itfengan/AudioColumnView](https://github.com/itfengan/AudioColumnView "效果图")
-### 使用很简单 ###
- - xml
-
-
+# usage
 ```
 
     <?xml version="1.0" encoding="utf-8"?>
@@ -39,11 +35,7 @@ An audio beat view
 	</LinearLayout>
 
     ```
-
-
-
- - java
-
+    
 ```
 
 
