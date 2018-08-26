@@ -6,8 +6,6 @@ An audio beat view
 <img src="https://github.com/itfengan/AudioColumnView/blob/master/screenshot/20171025154215079.gif" width = "350"/>
 # usage
 
-    ```
-
     <?xml version="1.0" encoding="utf-8"?>
 	<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -34,10 +32,6 @@ An audio beat view
         android:background="@android:color/background_dark"
         android:layout_height="50dp"/>
 	</LinearLayout>
-
-    ```
-    
-    ```
 
     public class MainActivity extends AppCompatActivity {
 
@@ -67,5 +61,4 @@ An audio beat view
     }
 	}
 
-    ```
 # over 嘻嘻
